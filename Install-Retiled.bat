@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-title Retiled App Installer - v6 (Correct Two-Folder Logic)
+title Retiled App Installer
 
 cls
 echo.
@@ -144,6 +144,6 @@ echo  You can now check your Windows 8 Start Screen for the new app tiles.
 echo.
 
 :end
-echo Press any key to close this window. Thanks for using! This install script was made by BlueySoft, Retiled is made by migbrunluz.
+echo Press any key to close this window. Thanks for using.
 pause >nul
 exit
