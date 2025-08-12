@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-title Retiled App Installer - v6 (Correct Two-Folder Logic)
+title Retiled App Installer
 
 cls
 echo.
